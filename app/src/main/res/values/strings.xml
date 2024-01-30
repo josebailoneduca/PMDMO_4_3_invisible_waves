@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Invisible Waves</string>
+    <string name="msg_explicacion">El permiso para su loacalización es necesario para descubrir dispositivos Bluetooth.</string>
+    <string name="aviso">Aviso</string>
+    <string name="msg_explicacion_manual">La aplicación necesita permisos para acceder a su localizacion. Elegiste no ser preguntado más por el permiso. Puedes activar el permiso en la configuración de tu telefono para que la aplicación funcione.</string>
+    <string name="activado">Blue tooth activado\n</string>
+    <string name="noactivado">Bluetooth no activado.</string>
+</resources>
